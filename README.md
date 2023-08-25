@@ -1,5 +1,9 @@
-PSU CMPSC Jobs Fall23-Spring24
+**PSU CMPSC Jobs Fall23-Spring24**
 
-Full-Time
+__Full-Time__
 
-Internship
+| Title | Company| Link | Status |
+|:------|:-------|:-----|:-------|
+|Entry-Level Software Engineer|Revature|https://revature.com/jobs/entry-level-software-engineer-3/?utm_source=linkedin&sourcedBy=BalaLP|Open|
+
+__Internship__
